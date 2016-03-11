@@ -1,6 +1,6 @@
 # angular2-quickstart
 
-Install these packages by entering the following npm command in a terminal window (command window in Windows):
+Install needed packages by entering the following npm command in a terminal window (command window in Windows):
 
 ```
 npm install
